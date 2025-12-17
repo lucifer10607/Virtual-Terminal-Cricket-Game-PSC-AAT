@@ -4,6 +4,7 @@ Project Objectives:
 1) To simulate a realistic cricket match experience within a command-line interface.
 2) To implement game logic including a toss system, batting, and bowling phases.
 3) To utilize random number generation to provide a challenging "System" opponent.
+
 Key Features:
 1) Toss System: A randomized coin toss where the user chooses "Heads" or "Tails" to decide who bats or bowls first.
 2) Dynamic Scorekeeping: Real-time updates of runs scored and the total score during each inning.
