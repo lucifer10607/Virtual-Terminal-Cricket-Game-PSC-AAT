@@ -1,4 +1,5 @@
 The "Virtual Terminal Cricket" project is a digital adaptation of the popular childhood game known as "Hand Cricket". Hand cricket is a game where players show scores using their fingers, and if the numbers shown by the batsman and bowler match, the batsman is declared "out." This implementation translates these physical mechanics into a terminal-based simulation using the C programming language.
+
 Project Objectives:
 1) To simulate a realistic cricket match experience within a command-line interface.
 2) To implement game logic including a toss system, batting, and bowling phases.
