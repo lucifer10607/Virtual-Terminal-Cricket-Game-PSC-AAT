@@ -13,6 +13,8 @@ Key Features:
 The program utilizes standard C libraries such as <stdio.h> for input/output, <stdlib.h> for utility functions, and <time.h> to seed the random number generator, ensuring that every game played is unique.
 
 Results:
+<div>
 ![Result1](Result1.png)
-![Result2](Result2.png)
-![Result3](Result3.png)
+</div>
+<div>![Result2](Result2.png)</div>
+<div>![Result3](Result3.png)</div>
