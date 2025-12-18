@@ -16,5 +16,5 @@ Results:
 <div>
 ![Result1](Result1.png)
 </div>
-<div>![Result2](Result2.png)</div>
+<div>!img-src='Result1.png'</div>
 <div>![Result3](Result3.png)</div>
