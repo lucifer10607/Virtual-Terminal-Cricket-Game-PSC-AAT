@@ -11,3 +11,6 @@ Key Features:
 3) Input Validation: Robust error handling to ensure users only enter valid numbers between 0 and 6.
 4) Target Chasing: A target is set after the first innings, and the second team must chase it to win.
 The program utilizes standard C libraries such as <stdio.h> for input/output, <stdlib.h> for utility functions, and <time.h> to seed the random number generator, ensuring that every game played is unique.
+
+Results:
+img
